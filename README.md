@@ -1,3 +1,6 @@
+Nuxt.js + Tailwindcss + API + Firebase Auth
+From figma file to production build
+
 # nuxt-blog
 
 ## Build Setup
